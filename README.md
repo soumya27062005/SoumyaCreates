@@ -13,7 +13,7 @@ Let me introduce myself, I’m Soumya Gupta. On this occasion, I’d like to sha
 - SweetAlert2  
 
 **Website Link:**  
-[https://www.eki.my.id/](https://www.eki.my.id/)  
+[https://www.soumyacreates.vercel.app/](https://www.soumyacreates.vercel.app/)  
 
 We would appreciate it if you decide to use this project. Please include credit when using it. Thank you! 🙏  
 
